@@ -392,4 +392,5 @@ AssureX/
 ---
 *AssureX Claim Engine — Developed for Excellence in Automated Warranty Adjudication.*
 #   A s s u r e X - C l a i m - E n g i n e  
+ #   A s s u r e X - C l a i m - E n g i n e  
  
